@@ -1,7 +1,7 @@
 
-# Todo List App
+# Quran APIs
 
-A simple todo list app 
+A simple Quran APIs
 
 
 
